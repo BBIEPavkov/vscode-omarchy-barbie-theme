@@ -389,6 +389,105 @@
         "foreground": "#FF149355",
         "fontStyle": "italic"
       }
+    },
+    {
+      "name": "await/async keywords",
+      "scope": [
+        "keyword.operator.expression.await",
+        "keyword.control.flow.await",
+        "keyword.control.trycatch",
+        "keyword.operator.expression.async"
+      ],
+      "settings": {
+        "foreground": "#98D8C8"
+      }
+    },
+    {
+      "name": "TS/React: JSX tags",
+      "scope": [
+        "entity.name.tag.tsx",
+        "entity.name.tag.jsx",
+        "support.class.component.tsx",
+        "support.class.component.jsx",
+        "entity.name.tag.js.jsx"
+      ],
+      "settings": {
+        "foreground": "#87CEEB"
+      }
+    },
+    {
+      "name": "TS/React: JSX attribute names",
+      "scope": [
+        "entity.other.attribute-name.tsx",
+        "entity.other.attribute-name.jsx"
+      ],
+      "settings": {
+        "foreground": "#FF69B4"
+      }
+    },
+    {
+      "name": "TS/React: JSX attribute values",
+      "scope": [
+        "string.quoted.jsx",
+        "string.quoted.tsx"
+      ],
+      "settings": {
+        "foreground": "#FF85C1"
+      }
+    },
+    {
+      "name": "TS: type annotations",
+      "scope": [
+        "entity.name.type.ts",
+        "entity.name.type.tsx",
+        "support.type.primitive.ts",
+        "support.type.primitive.tsx"
+      ],
+      "settings": {
+        "foreground": "#87CEEB"
+      }
+    },
+    {
+      "name": "TS: interface/type names",
+      "scope": [
+        "entity.name.type.interface.ts",
+        "entity.name.type.alias.ts"
+      ],
+      "settings": {
+        "foreground": "#87CEEB"
+      }
+    },
+    {
+      "name": "TS: type keywords",
+      "scope": [
+        "keyword.operator.type.ts",
+        "keyword.operator.expression.typeof",
+        "keyword.operator.expression.instanceof"
+      ],
+      "settings": {
+        "foreground": "#87CEEB"
+      }
+    },
+    {
+      "name": "TS: decorators",
+      "scope": [
+        "meta.decorator.ts",
+        "punctuation.decorator.ts"
+      ],
+      "settings": {
+        "foreground": "#FFF0A0",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "TS: function/method names",
+      "scope": [
+        "entity.name.function.ts",
+        "entity.name.function.tsx"
+      ],
+      "settings": {
+        "foreground": "#FFF0A0"
+      }
     }
   ],
   "semanticHighlighting": true,
@@ -418,7 +517,7 @@
     "member": "#FFF0A0",
     "function": "#FFF0A0",
     "plainKeyword": "#FF69B4",
-    "controlKeyword": "#FF69B4",
+    "controlKeyword": "#98D8C8",
     "comment": {
       "foreground": "#FF149365",
       "fontStyle": "italic"
