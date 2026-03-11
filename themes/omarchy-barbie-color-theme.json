@@ -488,6 +488,18 @@
       "settings": {
         "foreground": "#FFF0A0"
       }
+    },
+    {
+      "name": "TS: named imports",
+      "scope": [
+        "variable.other.readwrite.alias.ts",
+        "variable.other.readwrite.alias.tsx",
+        "meta.import.ts variable.other.readwrite.ts",
+        "meta.import.tsx variable.other.readwrite.tsx"
+      ],
+      "settings": {
+        "foreground": "#A8D8EA"
+      }
     }
   ],
   "semanticHighlighting": true,
