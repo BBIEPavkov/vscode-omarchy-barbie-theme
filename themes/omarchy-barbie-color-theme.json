@@ -181,7 +181,7 @@
         "string.interpolated"
       ],
       "settings": {
-        "foreground": "#FF85C1"
+        "foreground": "#FFB3CC"
       }
     },
     {
@@ -318,7 +318,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#F48FB1",
+        "foreground": "#FFB3CC",
         "fontStyle": "italic"
       }
     },
@@ -333,7 +333,7 @@
         "variable"
       ],
       "settings": {
-        "foreground": "#FF8EC8"
+        "foreground": "#FF75BE"
       }
     },
     {
@@ -422,7 +422,7 @@
         "entity.other.attribute-name.jsx"
       ],
       "settings": {
-        "foreground": "#FF69B4"
+        "foreground": "#FF75BE"
       }
     },
     {
@@ -432,7 +432,7 @@
         "string.quoted.tsx"
       ],
       "settings": {
-        "foreground": "#FF85C1"
+        "foreground": "#FFB3CC"
       }
     },
     {
@@ -506,11 +506,11 @@
       "fontStyle": "italic"
     },
     "number": "#FFF0A0",
-    "string": "#FF85C1",
-    "variable": "#FF8EC8",
-    "property": "#FF8EC8",
+    "string": "#FFB3CC",
+    "variable": "#FF75BE",
+    "property": "#FF75BE",
     "parameter": {
-      "foreground": "#F48FB1",
+      "foreground": "#FFB3CC",
       "fontStyle": "italic"
     },
     "method": "#FFF0A0",
