@@ -18,8 +18,8 @@
     "button.background": "#FF149350",
     "button.foreground": "#FFE4F0",
     "contrastBorder": "#FF149340",
-    "diffEditor.insertedTextBackground": "#FF69B415",
-    "diffEditor.removedTextBackground": "#F5005720",
+    "diffEditor.insertedTextBackground": "#28A74530",
+    "diffEditor.removedTextBackground": "#D7263D30",
     "dropdown.background": "#3D0A20",
     "dropdown.border": "#FF149310",
     "editor.background": "#2D0A22",
@@ -37,9 +37,9 @@
     "editorError.foreground": "#F50057",
     "editorGroup.border": "#FF149330",
     "editorGroupHeader.tabsBackground": "#2D0A22",
-    "editorGutter.addedBackground": "#FF69B460",
-    "editorGutter.deletedBackground": "#F5005760",
-    "editorGutter.modifiedBackground": "#FF85C160",
+    "editorGutter.addedBackground": "#28A745",
+    "editorGutter.deletedBackground": "#D7263D",
+    "editorGutter.modifiedBackground": "#FF85C1",
     "editorHoverWidget.background": "#3D0A20",
     "editorHoverWidget.border": "#FF149310",
     "editorIndentGuide.activeBackground1": "#FF149350",
@@ -159,7 +159,9 @@
     "titleBar.activeBackground": "#2D0A22",
     "titleBar.activeForeground": "#FF8EC8",
     "titleBar.inactiveBackground": "#2D0A22",
-    "titleBar.inactiveForeground": "#FF8EC870"
+    "titleBar.inactiveForeground": "#FF8EC870",
+    "diffEditor.insertedLineBackground": "#28A74520",
+    "diffEditor.removedLineBackground": "#D7263D20"
   },
   "tokenColors": [
     {
