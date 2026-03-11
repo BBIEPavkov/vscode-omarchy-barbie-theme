@@ -5,7 +5,7 @@
   "colors": {
     "activityBar.background": "#2D0A22",
     "activityBar.border": "#FF149340",
-    "activityBar.foreground": "#FF1493",
+    "activityBar.foreground": "#FFB3CC",
     "activityBarBadge.background": "#FF69B4",
     "activityBarBadge.foreground": "#2D0A22",
     "badge.background": "#FF149330",
@@ -161,7 +161,8 @@
     "titleBar.inactiveBackground": "#2D0A22",
     "titleBar.inactiveForeground": "#FF8EC870",
     "diffEditor.insertedLineBackground": "#28A74520",
-    "diffEditor.removedLineBackground": "#D7263D20"
+    "diffEditor.removedLineBackground": "#D7263D20",
+    "activityBar.inactiveForeground": "#FFB3CC80"
   },
   "tokenColors": [
     {
